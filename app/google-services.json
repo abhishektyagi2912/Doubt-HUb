@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258685349055",
+    "project_id": "doubt-hub-fcb62",
+    "storage_bucket": "doubt-hub-fcb62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258685349055:android:26037f554ded4c28dfaa0a",
+        "android_client_info": {
+          "package_name": "com.example.doubthub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258685349055-rdqjuc5pju6pq6mgbioutdjc4ftut6c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD94IWWa-Mu-o5r5JeXjoLx-C0x0UTmAT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258685349055-rdqjuc5pju6pq6mgbioutdjc4ftut6c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
